@@ -1,0 +1,14 @@
+body{color:white;
+font-family:cursive;
+background:black;}
+a{text-decoration:none;
+color:white;}
+img{width:500px;
+height:500px;
+align="center";}
+main{background:linear-gradient(to right, black,white);
+}
+footer{background:linear-gradient(to left, black,white);}
+div{background:linear-gradient(to top, black,white);
+width:100%;
+height:60%;}
